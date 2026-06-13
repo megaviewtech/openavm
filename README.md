@@ -34,8 +34,8 @@ This project provides a complete car surround view and rear view camera solution
 
 ### 🧰 1. Clone Repository
 
-git clone https://github.com/megaviewtech/car-avm-rvc.git
-cd car-avm-rvc
+git clone https://github.com/megaviewtech/car_avm_rvc.git
+cd car_avm_rvc
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55b60012-d1b9-4952-b15a-2599a99d51aa" />
