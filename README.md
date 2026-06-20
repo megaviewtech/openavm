@@ -1,4 +1,4 @@
-<img width="1811" height="532" alt="未标题-6" src="https://github.com/user-attachments/assets/72a57eb3-1bea-4a3c-bfdf-78dde1ab0530" />
+<img width="500" height="146" alt="未标题-6" src="https://github.com/user-attachments/assets/72a57eb3-1bea-4a3c-bfdf-78dde1ab0530" />
 
  🚘 Car AVM / RVC
 
